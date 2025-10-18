@@ -8,10 +8,10 @@
     "version": "next",
     "name": "TrialDocFlow",
     "iconUrl": "https://drugtrialdocflow.com/logo_256x256.png",
-    "homeUrl": "https://drugtrialdocflow.com/app",
+    "homeUrl": "https://app-5d0094a0-tud7.vercel.app",
     "splashImageUrl": "https://drugtrialdocflow.com/splash_image_200x200.png",
     "splashBackgroundColor": "#0A0A0A",
-    "webhookUrl": "https://api.drugtrialdocflow.com/frame-webhook",
+    "webhookUrl": "https://app-5d0094a0-tud7.vercel.app/api/webhook",
     "subtitle": "Onchain regulatory compliance",
     "description": "Streamline the creation, versioning, and approval of critical legal, ethical, and clinical documents for drug trials with real-time compliance and immutable audit trails.",
     "screenshotUrls": [
@@ -20,7 +20,13 @@
       "https://drugtrialdocflow.com/screenshot3.png"
     ],
     "primaryCategory": "productivity",
-    "tags": ["healthcare", "compliance", "documents", "regulatory", "blockchain"],
+    "tags": [
+      "healthcare",
+      "compliance",
+      "documents",
+      "regulatory",
+      "blockchain"
+    ],
     "heroImageUrl": "https://drugtrialdocflow.com/og.png",
     "tagline": "Real-time compliance for drug trials",
     "ogTitle": "TrialDocFlow - Onchain Regulatory Document Management",
